@@ -17,3 +17,10 @@
 * PA14 -> SWCLK, pin 36 on LQPF48
 * BOOT0 is multiplexed with PA14, pin 36
 * NRST is pin 10 on LQFP48
+
+### Programming connector
+
+* Pin 1: 3v3
+* Pin 2: PA13, SWDIO
+* Pin 3: PA14, SWCLK
+* Pin 4: GND
