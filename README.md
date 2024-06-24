@@ -7,4 +7,4 @@
 * XL4015E1 switching regulator
 * EL357N optocoupler for spindle FET drive(?)
 * IRF540NS (international rectifier) GET (spindle PWM)
-
+* Clock oscillator, 24MHz
