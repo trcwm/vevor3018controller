@@ -24,3 +24,8 @@
 * Pin 2: PA13, SWDIO
 * Pin 3: PA14, SWCLK
 * Pin 4: GND
+
+## Firmware strings
+* "VIGOTEC|CNC|V1.01|B20210204"
+* "VER:1.1f.20170131"
+* "Grbl 1.1f ['$' for help]"
