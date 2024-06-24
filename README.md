@@ -15,5 +15,5 @@
 
 * PA13 -> SWIO, pin 35 on LQPF48
 * PA14 -> SWCLK, pin 36 on LQPF48
-* BOOT0 is multiplexed with PA14
+* BOOT0 is multiplexed with PA14, pin 36
 * NRST is pin 10 on LQFP48
